@@ -31,6 +31,7 @@
 .text{
     font-size: 30px;
     transition: scale 2s linear;
+    text-align:center;
 }
 
 .text:hover{
